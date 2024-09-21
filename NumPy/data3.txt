@@ -1,0 +1,16 @@
+ProductID;ProductName;Category;Price;QuantitySold;Date
+P001;Laptop;Electronics;999.99;150;2023-01-15
+P002;Smartphone;Electronics;699.99;300;2023-01-20
+P003;Headphones;Electronics;199.99;250;2023-02-05
+P004;Desk Chair;Furniture;149.99;200;2023-02-10
+P005;Coffee Maker;Appliances;89.99;400;2023-03-01
+P006;Monitor;Electronics;299.99;180;2023-03-10
+P007;Dining Table;Furniture;499.99;80;2023-03-15
+P008;Electric Kettle;Appliances;49.99;500;2023-03-20
+P009;Gaming Console;Electronics;399.99;150;2023-04-05
+P010;Air Fryer;Appliances;99.99;300;2023-04-10
+P011;Sofa;Furniture;799.99;60;2023-04-15
+P012;Smartwatch;Electronics;249.99;220;2023-04-20
+P013;Refrigerator;Appliances;1199.99;50;2023-05-01
+P014;Table Lamp;Furniture;39.99;400;2023-05-05
+P015;Bluetooth Speaker;Electronics;149.99;320;2023-05-10

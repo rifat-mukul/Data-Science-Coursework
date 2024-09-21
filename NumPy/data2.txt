@@ -1,0 +1,20 @@
+101|John Doe|35|45000.75|Developer
+102|Jane Smith|28|52000.50|Designer
+103|Mike Johnson|45|58000.00|Manager
+104|Emily Davis|38|61000.25|Analyst
+105|David Brown|41|48000.00|Consultant
+106|Sophia Wilson|30|54000.75|Engineer
+107|William Garcia|37|62000.50|Architect
+108|Olivia Martinez|29|50000.00|Researcher
+109|James Anderson|42|63000.25|Scientist
+110|Isabella Thomas|33|59000.00|Specialist
+111|Benjamin Jackson|47|66000.75|Director
+112|Lucas White|36|58000.50|Coordinator
+113|Mason Harris|31|53000.00|Strategist
+114|Ethan Lewis|39|62000.25|Technician
+115|Ava Clark|34|56000.00|Planner
+116|Charlotte Walker|32|49000.75|Consultant
+117|Amelia Hall|44|68000.50|Lead Developer
+118|Harper Allen|40|64000.00|Project Manager
+119|Evelyn Young|46|70000.25|Executive
+120|Abigail Hernandez|27|52000.00|Analyst
